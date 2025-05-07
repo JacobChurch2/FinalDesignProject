@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\School\\Q11\\Digital Prortfolio\\Final\\FinalDesignProject\\FinalDesignProject\\",
+  "WorkspaceRootPath": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0EB01BF1-8F9E-467F-B9F0-693D042B2B48}|FinalDesignProject\\FinalDesignProject.csproj|c:\\school\\q11\\digital prortfolio\\final\\finaldesignproject\\finaldesignproject\\finaldesignproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EB01BF1-8F9E-467F-B9F0-693D042B2B48}|FinalDesignProject\\FinalDesignProject.csproj|solutionrelative:finaldesignproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EB01BF1-8F9E-467F-B9F0-693D042B2B48}|FinalDesignProject\\FinalDesignProject.csproj|c:\\school\\q11\\software design\\final\\finaldesignproject\\finaldesignproject\\finaldesignproject\\views\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB01BF1-8F9E-467F-B9F0-693D042B2B48}|FinalDesignProject\\FinalDesignProject.csproj|solutionrelative:finaldesignproject\\views\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\School\\Q11\\Digital Prortfolio\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\Program.cs",
-              "RelativeDocumentMoniker": "FinalDesignProject\\Program.cs",
-              "ToolTip": "C:\\School\\Q11\\Digital Prortfolio\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\Program.cs",
-              "RelativeToolTip": "FinalDesignProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\Views\\Program.cs",
+              "RelativeDocumentMoniker": "FinalDesignProject\\Views\\Program.cs",
+              "ToolTip": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\Views\\Program.cs",
+              "RelativeToolTip": "FinalDesignProject\\Views\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T00:35:25.114Z",
               "EditorCaption": ""

@@ -1,0 +1,15 @@
+C:\School\Q11\Software Design\Final\FinalDesignProject\FinalDesignProject\FinalDesignProject\bin\Debug\net8.0\FinalDesignProject.exe
+C:\School\Q11\Software Design\Final\FinalDesignProject\FinalDesignProject\FinalDesignProject\bin\Debug\net8.0\FinalDesignProject.deps.json
+C:\School\Q11\Software Design\Final\FinalDesignProject\FinalDesignProject\FinalDesignProject\bin\Debug\net8.0\FinalDesignProject.runtimeconfig.json
+C:\School\Q11\Software Design\Final\FinalDesignProject\FinalDesignProject\FinalDesignProject\bin\Debug\net8.0\FinalDesignProject.dll
+C:\School\Q11\Software Design\Final\FinalDesignProject\FinalDesignProject\FinalDesignProject\bin\Debug\net8.0\FinalDesignProject.pdb
+C:\School\Q11\Software Design\Final\FinalDesignProject\FinalDesignProject\FinalDesignProject\obj\Debug\net8.0\FinalDesignProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Q11\Software Design\Final\FinalDesignProject\FinalDesignProject\FinalDesignProject\obj\Debug\net8.0\FinalDesignProject.AssemblyInfoInputs.cache
+C:\School\Q11\Software Design\Final\FinalDesignProject\FinalDesignProject\FinalDesignProject\obj\Debug\net8.0\FinalDesignProject.AssemblyInfo.cs
+C:\School\Q11\Software Design\Final\FinalDesignProject\FinalDesignProject\FinalDesignProject\obj\Debug\net8.0\FinalDesignProject.csproj.CoreCompileInputs.cache
+C:\School\Q11\Software Design\Final\FinalDesignProject\FinalDesignProject\FinalDesignProject\obj\Debug\net8.0\FinalDesignProject.sourcelink.json
+C:\School\Q11\Software Design\Final\FinalDesignProject\FinalDesignProject\FinalDesignProject\obj\Debug\net8.0\FinalDesignProject.dll
+C:\School\Q11\Software Design\Final\FinalDesignProject\FinalDesignProject\FinalDesignProject\obj\Debug\net8.0\refint\FinalDesignProject.dll
+C:\School\Q11\Software Design\Final\FinalDesignProject\FinalDesignProject\FinalDesignProject\obj\Debug\net8.0\FinalDesignProject.pdb
+C:\School\Q11\Software Design\Final\FinalDesignProject\FinalDesignProject\FinalDesignProject\obj\Debug\net8.0\FinalDesignProject.genruntimeconfig.cache
+C:\School\Q11\Software Design\Final\FinalDesignProject\FinalDesignProject\FinalDesignProject\obj\Debug\net8.0\ref\FinalDesignProject.dll

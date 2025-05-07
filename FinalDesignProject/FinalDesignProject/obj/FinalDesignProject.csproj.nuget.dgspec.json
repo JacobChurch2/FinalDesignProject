@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\School\\Q11\\Digital Prortfolio\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject.csproj": {}
+    "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject.csproj": {}
   },
   "projects": {
-    "C:\\School\\Q11\\Digital Prortfolio\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject.csproj": {
+    "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\School\\Q11\\Digital Prortfolio\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject.csproj",
+        "projectUniqueName": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject.csproj",
         "projectName": "FinalDesignProject",
-        "projectPath": "C:\\School\\Q11\\Digital Prortfolio\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject.csproj",
+        "projectPath": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject.csproj",
         "packagesPath": "C:\\Users\\jchurch\\.nuget\\packages\\",
-        "outputPath": "C:\\School\\Q11\\Digital Prortfolio\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\obj\\",
+        "outputPath": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
