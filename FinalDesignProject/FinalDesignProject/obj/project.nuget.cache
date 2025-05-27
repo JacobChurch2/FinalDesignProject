@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "q3Tsq0zlblc=",
+  "dgSpecHash": "ouV+yFock7g=",
   "success": true,
   "projectFilePath": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jchurch\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
