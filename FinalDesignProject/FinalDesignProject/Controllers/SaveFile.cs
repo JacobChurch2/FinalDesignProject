@@ -20,65 +20,29 @@ public sealed class SaveFile
 	private SaveFile()
 	{
 		// Constructor logic here
-		if (!File.Exists(filePath))
-		{
-			File.WriteAllText(filePath, "{}"); // Empty JSON object
-		}
 	}
 
-	private string filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "levelHighScores.json");
+	private string filePath = AppDomain.CurrentDomain.BaseDirectory + "saveFiles/";
 
-	public void SaveToJson(string course, string levelName, int score)
+	public void SaveToJson(string data, string saveFileName)
 	{
-		var data = LoadAllScores();
-		if (data == null)
-		{
-			data = new Dictionary<string, Dictionary<string, int>>();
-		}
+		string json = JsonConvert.SerializeObject(data, Formatting.Indented);
 
-		if (!data.ContainsKey(course))
+		if (!Directory.Exists(filePath))
 		{
-			data[course] = new Dictionary<string, int>();
+			Directory.CreateDirectory(filePath);
 		}
-
-		if (!data[course].ContainsKey(levelName))
-		{
-			data[course][levelName] = 0;
-		}
-
-		int existingScore;
-		existingScore = data[course][levelName];
-		if (existingScore > score || existingScore == 0)
-		{
-			data[course][levelName] = score;
-			string json = JsonConvert.SerializeObject(data, Formatting.Indented);
-			File.WriteAllText(filePath, json);
-		}
-		else
-		{
-			Console.WriteLine("Score not saved, existing score is lower.");
-		}
+		File.WriteAllText(filePath + saveFileName, json);
 	}
 
-	public Dictionary<string, Dictionary<string, int>> LoadAllScores()
+	public string LoadFromJson(string saveFileName)
 	{
-		if (!File.Exists(filePath))
-			return new Dictionary<string, Dictionary<string, int>>();
+		if(!File.Exists(filePath + saveFileName))
+			return "Save file not found.";
 
-		string json = File.ReadAllText(filePath);
-		Dictionary<string, Dictionary<string, int>> data = JsonConvert.DeserializeObject<Dictionary<string, Dictionary<string, int>>>(json);
-		if (data == null) data = new Dictionary<string, Dictionary<string, int>>();
-		return data;
-	}
-
-	public int LoadFromJson(string course, string levelName)
-	{
-		var data = LoadAllScores();
-		if (!data.ContainsKey(course))
-			return 0;
-		if (!data[course].ContainsKey(levelName))
-			return 0;
-		return data[course][levelName];
+		string json = File.ReadAllText(filePath + saveFileName);
+		var parsedString = JsonConvert.DeserializeObject<string>(json);
+		return parsedString;
 	}
 
 }

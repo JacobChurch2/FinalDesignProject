@@ -13,3 +13,6 @@ C:\School\Q11\Software Design\Final\FinalDesignProject\FinalDesignProject\FinalD
 C:\School\Q11\Software Design\Final\FinalDesignProject\FinalDesignProject\FinalDesignProject\obj\Debug\net8.0\FinalDesignProject.pdb
 C:\School\Q11\Software Design\Final\FinalDesignProject\FinalDesignProject\FinalDesignProject\obj\Debug\net8.0\FinalDesignProject.genruntimeconfig.cache
 C:\School\Q11\Software Design\Final\FinalDesignProject\FinalDesignProject\FinalDesignProject\obj\Debug\net8.0\ref\FinalDesignProject.dll
+c:\School\Q11\Software Design\Final\FinalDesignProject\FinalDesignProject\FinalDesignProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+c:\School\Q11\Software Design\Final\FinalDesignProject\FinalDesignProject\FinalDesignProject\obj\Debug\net8.0\FinalDesignProject.csproj.AssemblyReference.cache
+c:\School\Q11\Software Design\Final\FinalDesignProject\FinalDesignProject\FinalDesignProject\obj\Debug\net8.0\FinalDes.8D0060EC.Up2Date

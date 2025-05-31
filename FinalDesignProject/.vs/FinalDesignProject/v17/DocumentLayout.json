@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0EB01BF1-8F9E-467F-B9F0-693D042B2B48}|FinalDesignProject\\FinalDesignProject.csproj|c:\\school\\q11\\software design\\final\\finaldesignproject\\finaldesignproject\\finaldesignproject\\models\\gametemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB01BF1-8F9E-467F-B9F0-693D042B2B48}|FinalDesignProject\\FinalDesignProject.csproj|solutionrelative:finaldesignproject\\models\\gametemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB01BF1-8F9E-467F-B9F0-693D042B2B48}|FinalDesignProject\\FinalDesignProject.csproj|c:\\school\\q11\\software design\\final\\finaldesignproject\\finaldesignproject\\finaldesignproject\\models\\igameflyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB01BF1-8F9E-467F-B9F0-693D042B2B48}|FinalDesignProject\\FinalDesignProject.csproj|solutionrelative:finaldesignproject\\models\\igameflyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB01BF1-8F9E-467F-B9F0-693D042B2B48}|FinalDesignProject\\FinalDesignProject.csproj|c:\\school\\q11\\software design\\final\\finaldesignproject\\finaldesignproject\\finaldesignproject\\controllers\\savefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB01BF1-8F9E-467F-B9F0-693D042B2B48}|FinalDesignProject\\FinalDesignProject.csproj|solutionrelative:finaldesignproject\\controllers\\savefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB01BF1-8F9E-467F-B9F0-693D042B2B48}|FinalDesignProject\\FinalDesignProject.csproj|c:\\school\\q11\\software design\\final\\finaldesignproject\\finaldesignproject\\finaldesignproject\\models\\monopoly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB01BF1-8F9E-467F-B9F0-693D042B2B48}|FinalDesignProject\\FinalDesignProject.csproj|solutionrelative:finaldesignproject\\models\\monopoly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB01BF1-8F9E-467F-B9F0-693D042B2B48}|FinalDesignProject\\FinalDesignProject.csproj|c:\\school\\q11\\software design\\final\\finaldesignproject\\finaldesignproject\\finaldesignproject\\models\\uno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB01BF1-8F9E-467F-B9F0-693D042B2B48}|FinalDesignProject\\FinalDesignProject.csproj|solutionrelative:finaldesignproject\\models\\uno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB01BF1-8F9E-467F-B9F0-693D042B2B48}|FinalDesignProject\\FinalDesignProject.csproj|c:\\school\\q11\\software design\\final\\finaldesignproject\\finaldesignproject\\finaldesignproject\\controllers\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB01BF1-8F9E-467F-B9F0-693D042B2B48}|FinalDesignProject\\FinalDesignProject.csproj|solutionrelative:finaldesignproject\\controllers\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB01BF1-8F9E-467F-B9F0-693D042B2B48}|FinalDesignProject\\FinalDesignProject.csproj|c:\\school\\q11\\software design\\final\\finaldesignproject\\finaldesignproject\\finaldesignproject\\models\\phase10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB01BF1-8F9E-467F-B9F0-693D042B2B48}|FinalDesignProject\\FinalDesignProject.csproj|solutionrelative:finaldesignproject\\models\\phase10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0EB01BF1-8F9E-467F-B9F0-693D042B2B48}|FinalDesignProject\\FinalDesignProject.csproj|c:\\school\\q11\\software design\\final\\finaldesignproject\\finaldesignproject\\finaldesignproject\\views\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EB01BF1-8F9E-467F-B9F0-693D042B2B48}|FinalDesignProject\\FinalDesignProject.csproj|solutionrelative:finaldesignproject\\views\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +58,104 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaveFile.cs",
+              "DocumentMoniker": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\Controllers\\SaveFile.cs",
+              "RelativeDocumentMoniker": "FinalDesignProject\\Controllers\\SaveFile.cs",
+              "ToolTip": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\Controllers\\SaveFile.cs",
+              "RelativeToolTip": "FinalDesignProject\\Controllers\\SaveFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T03:43:19.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GameTemplate.cs",
+              "DocumentMoniker": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\Models\\GameTemplate.cs",
+              "RelativeDocumentMoniker": "FinalDesignProject\\Models\\GameTemplate.cs",
+              "ToolTip": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\Models\\GameTemplate.cs",
+              "RelativeToolTip": "FinalDesignProject\\Models\\GameTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T03:31:02.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Facade.cs",
+              "DocumentMoniker": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\Controllers\\Facade.cs",
+              "RelativeDocumentMoniker": "FinalDesignProject\\Controllers\\Facade.cs",
+              "ToolTip": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\Controllers\\Facade.cs",
+              "RelativeToolTip": "FinalDesignProject\\Controllers\\Facade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T03:29:22.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Uno.cs",
+              "DocumentMoniker": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\Models\\Uno.cs",
+              "RelativeDocumentMoniker": "FinalDesignProject\\Models\\Uno.cs",
+              "ToolTip": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\Models\\Uno.cs",
+              "RelativeToolTip": "FinalDesignProject\\Models\\Uno.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T03:27:27.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Phase10.cs",
+              "DocumentMoniker": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\Models\\Phase10.cs",
+              "RelativeDocumentMoniker": "FinalDesignProject\\Models\\Phase10.cs",
+              "ToolTip": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\Models\\Phase10.cs",
+              "RelativeToolTip": "FinalDesignProject\\Models\\Phase10.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwEgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T03:24:50.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Monopoly.cs",
+              "DocumentMoniker": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\Models\\Monopoly.cs",
+              "RelativeDocumentMoniker": "FinalDesignProject\\Models\\Monopoly.cs",
+              "ToolTip": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\Models\\Monopoly.cs",
+              "RelativeToolTip": "FinalDesignProject\\Models\\Monopoly.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T03:21:13.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGameFlyWeight.cs",
+              "DocumentMoniker": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\Models\\IGameFlyWeight.cs",
+              "RelativeDocumentMoniker": "FinalDesignProject\\Models\\IGameFlyWeight.cs",
+              "ToolTip": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\Models\\IGameFlyWeight.cs",
+              "RelativeToolTip": "FinalDesignProject\\Models\\IGameFlyWeight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T03:21:07.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\Views\\Program.cs",
               "RelativeDocumentMoniker": "FinalDesignProject\\Views\\Program.cs",
               "ToolTip": "C:\\School\\Q11\\Software Design\\Final\\FinalDesignProject\\FinalDesignProject\\FinalDesignProject\\Views\\Program.cs",
               "RelativeToolTip": "FinalDesignProject\\Views\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T00:35:25.114Z",
               "EditorCaption": ""
